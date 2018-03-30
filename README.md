@@ -1,2 +1,2 @@
 # mybookmark
-my chrome bookmark
+my chrome bookmak sync
